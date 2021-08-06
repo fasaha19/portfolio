@@ -1185,3 +1185,7 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+#tagcloud > ul >li{
+  font-size: 20px !important;
+}
